@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\bin\Debug\net6.0\10 odd and even numbers.exe
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\bin\Debug\net6.0\10 odd and even numbers.deps.json
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\bin\Debug\net6.0\10 odd and even numbers.runtimeconfig.json
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\bin\Debug\net6.0\10 odd and even numbers.dll
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\bin\Debug\net6.0\10 odd and even numbers.pdb
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\10 odd and even numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\10 odd and even numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\10 odd and even numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\10 odd and even numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\10 odd and even numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\10 odd and even numbers.dll
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\refint\10 odd and even numbers.dll
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\10 odd and even numbers.pdb
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\10 odd and even numbers.genruntimeconfig.cache
+C:\Users\User\source\repos\10 odd and even numbers\10 odd and even numbers\obj\Debug\net6.0\ref\10 odd and even numbers.dll

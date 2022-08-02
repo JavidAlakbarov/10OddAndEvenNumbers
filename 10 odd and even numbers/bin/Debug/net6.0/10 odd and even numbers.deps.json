@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "10 odd and even numbers/1.0.0": {
+        "runtime": {
+          "10 odd and even numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10 odd and even numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
